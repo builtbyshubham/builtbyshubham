@@ -98,6 +98,17 @@ To work as a **Backend Software Development Engineer** where I can:
 
 ---
 
+## 🎯 Interests & Hobbies
+
+- Solving **algorithmic and logical problems** to strengthen problem-solving skills  
+- Learning how **large-scale backend systems** are designed and scaled  
+- Reading about **software architecture and system design**  
+- Exploring **AI concepts and fundamentals** with a focus on practical understanding  
+- Playing **multiplayer games**, which helps improve teamwork, strategy, and decision-making  
+- **Travelling**, exploring new places and perspectives
+  
+---
+
 ## 📫 Connect
 
 - GitHub: https://github.com/builtbyshubham
